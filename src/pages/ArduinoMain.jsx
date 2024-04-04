@@ -41,7 +41,7 @@ const ArduinoMain = () => {
               </p>
               <p className="text-[4.4rem] font-bold">23.5°C</p>
             </div>
-            <div className="flex flex-col items-center">
+            <div className="flex flex-col pt-[1.5rem] items-center">
               <p className="text-[2rem]">
                 <MdOutlineWaterDrop />
               </p>
